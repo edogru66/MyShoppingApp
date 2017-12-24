@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyShopping App</string>
+    <string name="product_list_url">https://s3-eu-west-1.amazonaws.com/developer-application-test/cart/</string>
+</resources>
